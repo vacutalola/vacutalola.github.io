@@ -1,0 +1,48 @@
+a:link{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0 5px;
+    line-height: 30px;
+    color: #404040;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+ a:visited{
+    color: #404040;
+}
+
+a:active{
+    color: #cb1313;
+    
+} 
+
+a:hover{
+    color: #cb1313;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #btn{
+    font-family: sans-serif;
+    border: 0px;
+    border-radius: 3px;
+    background: #cb1313;
+    color: #ffffff; 
+    padding: 9px 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+} */
+
